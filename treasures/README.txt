@@ -1,0 +1,1 @@
+Inside the hardest to crack compartment is pictures of family, electrical schematic, and a congrats page with links to video, source code, and a call to action: Now hack this box and make it better.
