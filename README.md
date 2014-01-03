@@ -2,11 +2,11 @@
                                                        
 The Locky Gizmo is an appliance with lots of locks and latches for a kid (ages 2-90) to play with. This Arduino sketch runs the electronic latch on one of the doors.
 
+  ![](https://raw.github.com/jvyduna/LockyGizmo/master/images/Locky-Gizmo-Latch-Board.gif)
+
 ## See it in action
 
-  https://www.youtube.com/watch?v=L9nfNFGxYgc
-  
-  ![](https://raw.github.com/jvyduna/LockyGizmo/master/images/Locky-Gizmo-Latch-Board.gif)
+  https://www.youtube.com/watch?v=9oBQnGuzx6Q
 
 ## Description
 
